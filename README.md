@@ -5,14 +5,20 @@ An experienced data professional with excellent data modeling, statistical analy
 
 ### Education
 MSc Applied Data Analytics in Digital and Technological Solutions in Data Science
+
 BSc Finance and Accounting
 
 ### Certifications
 PCAP: Programming in Python language (OpenEDG Python Institute)
+
 Advanced MySQL (Meta)
+
 SQL Masterclass (QLS)
+
 Statistics and R (Harvard)
+
 Microsoft Excel Expert Course (CDP)
+
 Microsoft PowerBI Data Analysis (Microsoft) 
 
 ### Skills
