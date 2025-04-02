@@ -1,7 +1,7 @@
-# Kemka W
+# Data Scientist
 
 ### Bio
-An experienced data professional with excellent data modeling,statistical analysis and communication skills
+An experienced data professional with excellent data modeling, statistical analysis and communication skills
 
 ### Education
 MSc Applied Data Analytics in Digital and Technological Solutions in Data Science
