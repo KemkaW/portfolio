@@ -1,13 +1,13 @@
 # Data Scientist
 
-### Bio <!-- --> 
+<h3>Bio</h3>
 An experienced data professional with excellent data modeling, statistical analysis and communication skills
 
-### Education <!-- --> 
+### Education<!-- --> 
 MSc Applied Data Analytics in Data Science <br>
 BSc Finance and Accounting
 
-### Certifications <!-- --> 
+### Certifications<!-- --> 
 PCAP: Programming in Python language (OpenEDG Python Institute) <br>
 Advanced MySQL (Meta) <br>
 SQL Masterclass (QLS) <br>
@@ -15,7 +15,7 @@ Statistics and R (Harvard) <br>
 Microsoft Excel Expert Course (CDP) <br>
 Microsoft PowerBI Data Analysis (Microsoft) 
 
-### Skills <!-- --> 
+### Skills</h3>
 Programming: Python, SQL, R, PowerBI, Excel <br>
 Cloud Solutions: AWS, Azure, GCP
 
