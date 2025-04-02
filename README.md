@@ -3,6 +3,10 @@
 ### Bio
 An experienced data professional with excellent data modeling, statistical analysis and communication skills
 
+### Skills
+Programming: Python, SQL, R, PowerBI, Excel <br>
+Cloud Solutions: AWS, Azure, GCP
+
 ### Education
 MSc Applied Data Analytics in Data Science (2:1) <br>
 BSc Finance and Accounting (2:1)
@@ -14,9 +18,5 @@ SQL Masterclass (QLS) <br>
 Statistics and R (Harvard) <br>
 Microsoft Excel Expert Course (CDP) <br>
 Microsoft PowerBI Data Analysis (Microsoft) 
-
-### Skills
-Programming: Python, SQL, R, PowerBI, Excel <br>
-Cloud Solutions: AWS, Azure, GCP
 
 ### Projects
