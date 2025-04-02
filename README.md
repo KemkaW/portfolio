@@ -4,8 +4,8 @@
 An experienced data professional with excellent data modeling, statistical analysis and communication skills
 
 ### Education
-MSc Applied Data Analytics in Data Science <br>
-BSc Finance and Accounting
+MSc Applied Data Analytics in Data Science (2:1) <br>
+BSc Finance and Accounting (2:1)
 
 ### Certifications
 PCAP: Programming in Python language (OpenEDG Python Institute) <br>
